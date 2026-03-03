@@ -1,36 +1,23 @@
-# 👨‍💻 Code Artisan & Digital Architect
+### Ruggero Rebellato
 
-> Building the future of AI automated investment portfolio management in DeFi | Where performance meets innovation
+Building [neobankless](https://neobankless.com) — self-custody banking for emerging markets.
 
-With over a decade forging digital solutions, I craft:
-```
-🔧 Full-stack symphonies
-🚀 Low-latency systems in Rust & C
-⚡ Event-driven architectures
-🔩 Embedded system solutions
-🧠 ML-powered crypto investment tools
-```
+We let people in Brazil convert BRL to USDC, earn DeFi yield on Solana, and spend globally with a card. No traditional bank required.
 
-✨ Creator of **OrionDB** - where milliseconds matter and data thrives
+**What I work on daily:**
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuggeroRebellato&show_icons=true&bg_color=00000000)
+- Solana programs in Anchor (vault system, share accounting, referral revenue sharing)
+- Rust backend services — Actix-web with double-entry accounting, event sourcing, CQRS
+- Banking-as-a-Service API — event-sourced Axum service with PIX rails, token swaps, inventory management
+- React Native mobile app with embedded wallets and KYC flows
+- Transaction indexer, BI dashboards, infra (Docker Swarm, Ansible, Prometheus/Grafana/Loki)
+- NFC hardware 2FA using NTAG 424 DNA for high-value transaction signing
 
-## Featured Projects
+**Previous work:**
 
-### OrionDB
-A high-performance key-value store database I created in C, designed for low-latency applications and concurrent access patterns. Features include a multi-threaded architecture with fine-grained locking, efficient memory management with arena allocation, and configurable persistence.
+- [OrionDB](https://github.com/RuggeroRebellato/OrionDB) — low-latency key-value store in C with arena allocation and fine-grained locking
+- [fmodel-rust](https://github.com/RuggeroRebellato/fmodel-rust) — domain modeling library in Rust
 
-### Tasky
-Task management system built with Rust, focusing on performance and reliability.
+**Stack:** Rust, TypeScript, Solana/Anchor, React Native, PostgreSQL, Redis, C
 
-### Agave
-Blockchain project fork exploring advancements in distributed ledger technology.
-
-### fmodel-rust
-Domain modeling library in Rust, built for robust system design.
-
-## Connect
-- [GitHub](https://github.com/RuggeroRebellato)
-- [LinkedIn](https://www.linkedin.com/in/ruggero-rebellato/)
-
+[LinkedIn](https://www.linkedin.com/in/ruggero-rebellato/)
